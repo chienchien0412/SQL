@@ -1,0 +1,3 @@
+SELECT *
+  FROM admin_regions
+  LIMIT 5; 
